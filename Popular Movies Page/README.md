@@ -34,6 +34,8 @@ Open the main.dart file and replace the placeholder API key with your OMDB API k
 
 ## Project Structure
 -**`main.dart:`** Contains the app's entry point and routes.
+
 -**`MovieListPage:`** The main page that fetches and displays the movie list.
+
 -**`MovieTile:`** A widget to display individual movie details.
 
