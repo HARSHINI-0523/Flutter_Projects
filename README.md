@@ -1,7 +1,5 @@
 # Flutter_Projects
 
-# Flutter Mini Projects
-
 ## About the Flutter Workshop
 This repository contains a collection of mini projects developed as part of the Flutter workshop. The workshop aims to introduce beginners to mobile app development using Flutter and Dart, providing hands-on experience with various Flutter widgets, state management, and API integration. Each project focuses on building fundamental skills, ranging from UI design to app logic, and is designed to help participants learn the basics of Flutter in a fun and engaging way.
 
