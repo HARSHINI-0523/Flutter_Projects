@@ -21,4 +21,4 @@ A simple and intuitive calculator app built with Flutter. The app provides basic
 ## Project Structure
 **main.dart:** The entry point of the app, setting up the basic theme and home screen.
 **CalculatorScreen:** The main UI and logic for the calculator.
-**Button Widgets:** Modular buttons designed for functionality and user interaction
+
