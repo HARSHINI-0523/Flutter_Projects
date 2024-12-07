@@ -15,10 +15,8 @@ A simple and intuitive calculator app built with Flutter. The app provides basic
 - Interactive and responsive design with neatly arranged buttons.
 - Real-time calculation display with two decimal precision.
 
-## Prerequisites
-- **Flutter SDK**: Ensure you have Flutter installed on your system. Follow the [Flutter installation guide](https://flutter.dev/docs/get-started/install) for your operating system.
-
 ## Project Structure
-**main.dart:** The entry point of the app, setting up the basic theme and home screen.
-**CalculatorScreen:** The main UI and logic for the calculator.
+-**`main.dart:`** The entry point of the app, setting up the basic theme and home screen.
+
+-**`CalculatorScreen:`** The main UI and logic for the calculator.
 
