@@ -1,4 +1,4 @@
-# Flutter Authentication App
+# SignUp Page
 
 A simple and modern authentication app built using Flutter. This app features **Sign In** and **Sign Up** screens with a clean, responsive UI and password visibility toggle. It also integrates options for social sign-ins (Google and Apple).
 
