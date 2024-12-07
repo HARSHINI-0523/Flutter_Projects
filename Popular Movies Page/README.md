@@ -21,22 +21,18 @@ A Flutter app that displays a list of popular movies using data fetched from the
    ```bash
    git clone https://github.com/your-username/popular-movies.git
    cd popular-movies
-Get the dependencies:
-
-bash
-Copy code
+2. **Get the dependencies:**
+```bash
 flutter pub get
-Replace the API Key: Open the main.dart file and replace the placeholder API key with your OMDB API key:
-
-dart
-Copy code
+3. **Replace the API Key:**
+Open the main.dart file and replace the placeholder API key with your OMDB API key:
+```bash
 final String apiKey = 'Replace this with your API Key';
-Run the app:
-
-bash
-Copy code
+4. **Run the app:**
+```bash
 flutter run
-Project Structure
+
+##Project Structure
 main.dart: Contains the app's entry point and routes.
 MovieListPage: The main page that fetches and displays the movie list.
 MovieTile: A widget to display individual movie details.
