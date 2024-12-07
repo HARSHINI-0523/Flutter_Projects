@@ -1,4 +1,4 @@
-# Popular Movies App 🎥
+# Popular Movies Page 
 
 A Flutter app that displays a list of popular movies using data fetched from the OMDB API. This app fetches movie details based on IMDb IDs and displays key information, including posters, titles, release years, and IMDb ratings.
 
@@ -22,17 +22,14 @@ A Flutter app that displays a list of popular movies using data fetched from the
    git clone https://github.com/your-username/popular-movies.git
    cd popular-movies
 2. **Get the dependencies:**
-```bash
-flutter pub get
+   ```bash
+   flutter pub get
 3. **Replace the API Key:**
 Open the main.dart file and replace the placeholder API key with your OMDB API key:
-```bash
-final String apiKey = 'Replace this with your API Key';
+    ```bash
+      final String apiKey = 'Replace this with your API Key';
 4. **Run the app:**
-```bash
-flutter run
+     ```bash
+     flutter run
 
-##Project Structure
-main.dart: Contains the app's entry point and routes.
-MovieListPage: The main page that fetches and displays the movie list.
-MovieTile: A widget to display individual movie details.
+
