@@ -32,4 +32,8 @@ Open the main.dart file and replace the placeholder API key with your OMDB API k
      ```bash
      flutter run
 
+## Project Structure
+**main.dart:** Contains the app's entry point and routes.
+**MovieListPage:** The main page that fetches and displays the movie list.
+**MovieTile:** A widget to display individual movie details.
 
