@@ -1,5 +1,5 @@
 
-# Calculator App 
+# Calculator Page
 
 A simple and intuitive calculator app built with Flutter. The app provides basic arithmetic operations, including addition, subtraction, multiplication, division, and modulus calculation, with a user-friendly interface.
 
